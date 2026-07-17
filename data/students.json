@@ -1,0 +1,122 @@
+[
+    {
+        "student_id": "STU001",
+        "name": "Alice Wanjiku",
+        "age": 20,
+        "gender": "F",
+        "course": "BSc IT",
+        "year": 2,
+        "marks": {
+            "Mathematics": 72.0,
+            "Programming": 85.0,
+            "Database": 78.0,
+            "Networking": 70.0,
+            "Web Development": 80.0
+        }
+    },
+    {
+        "student_id": "STU002",
+        "name": "Brian Otieno",
+        "age": 22,
+        "gender": "M",
+        "course": "BSc IT",
+        "year": 2,
+        "marks": {
+            "Mathematics": 55.0,
+            "Programming": 60.0,
+            "Database": 58.0,
+            "Networking": 52.0,
+            "Web Development": 65.0
+        }
+    },
+    {
+        "student_id": "STU003",
+        "name": "Carol Njeri",
+        "age": 19,
+        "gender": "F",
+        "course": "BSc CS",
+        "year": 1,
+        "marks": {
+            "Mathematics": 88.0,
+            "Programming": 90.0,
+            "Database": 85.0,
+            "Networking": 82.0,
+            "Web Development": 91.0
+        }
+    },
+    {
+        "student_id": "STU004",
+        "name": "David Mwangi",
+        "age": 21,
+        "gender": "M",
+        "course": "BSc IT",
+        "year": 3,
+        "marks": {
+            "Mathematics": 45.0,
+            "Programming": 50.0,
+            "Database": 42.0,
+            "Networking": 48.0,
+            "Web Development": 55.0
+        }
+    },
+    {
+        "student_id": "STU005",
+        "name": "Esther Akinyi",
+        "age": 20,
+        "gender": "F",
+        "course": "BSc CS",
+        "year": 2,
+        "marks": {
+            "Mathematics": 67.0,
+            "Programming": 72.0,
+            "Database": 70.0,
+            "Networking": 65.0,
+            "Web Development": 74.0
+        }
+    },
+    {
+        "student_id": "STU006",
+        "name": "Frank Kiprop",
+        "age": 23,
+        "gender": "M",
+        "course": "BSc IT",
+        "year": 3,
+        "marks": {
+            "Mathematics": 38.0,
+            "Programming": 40.0,
+            "Database": 35.0,
+            "Networking": 42.0,
+            "Web Development": 45.0
+        }
+    },
+    {
+        "student_id": "STU007",
+        "name": "Grace Muthoni",
+        "age": 21,
+        "gender": "F",
+        "course": "BSc CS",
+        "year": 2,
+        "marks": {
+            "Mathematics": 75.0,
+            "Programming": 80.0,
+            "Database": 77.0,
+            "Networking": 73.0,
+            "Web Development": 82.0
+        }
+    },
+    {
+        "student_id": "STU008",
+        "name": "Hassan Ali",
+        "age": 22,
+        "gender": "M",
+        "course": "BSc IT",
+        "year": 1,
+        "marks": {
+            "Mathematics": 60.0,
+            "Programming": 55.0,
+            "Database": 62.0,
+            "Networking": 58.0,
+            "Web Development": 64.0
+        }
+    }
+]

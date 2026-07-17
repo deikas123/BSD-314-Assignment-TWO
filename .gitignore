@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / OS
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Local helper scripts (not required for marking)
+generate_diagrams.py
+
+# Generated files
+data/marks_cleaned.csv
+report/Technical_Report.html
+report/Technical_Report.pdf

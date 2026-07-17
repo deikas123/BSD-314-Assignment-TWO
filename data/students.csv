@@ -1,0 +1,9 @@
+student_id,name,age,gender,course,year
+STU001,Alice Wanjiku,20,F,BSc IT,2
+STU002,Brian Otieno,22,M,BSc IT,2
+STU003,Carol Njeri,19,F,BSc CS,1
+STU004,David Mwangi,21,M,BSc IT,3
+STU005,Esther Akinyi,20,F,BSc CS,2
+STU006,Frank Kiprop,23,M,BSc IT,3
+STU007,Grace Muthoni,21,F,BSc CS,2
+STU008,Hassan Ali,22,M,BSc IT,1

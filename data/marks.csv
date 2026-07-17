@@ -1,0 +1,41 @@
+student_id,name,subject,score
+STU001,Alice Wanjiku,Mathematics,72.0
+STU001,Alice Wanjiku,Programming,85.0
+STU001,Alice Wanjiku,Database,78.0
+STU001,Alice Wanjiku,Networking,70.0
+STU001,Alice Wanjiku,Web Development,80.0
+STU002,Brian Otieno,Mathematics,55.0
+STU002,Brian Otieno,Programming,60.0
+STU002,Brian Otieno,Database,58.0
+STU002,Brian Otieno,Networking,52.0
+STU002,Brian Otieno,Web Development,65.0
+STU003,Carol Njeri,Mathematics,88.0
+STU003,Carol Njeri,Programming,90.0
+STU003,Carol Njeri,Database,85.0
+STU003,Carol Njeri,Networking,82.0
+STU003,Carol Njeri,Web Development,91.0
+STU004,David Mwangi,Mathematics,45.0
+STU004,David Mwangi,Programming,50.0
+STU004,David Mwangi,Database,42.0
+STU004,David Mwangi,Networking,48.0
+STU004,David Mwangi,Web Development,55.0
+STU005,Esther Akinyi,Mathematics,67.0
+STU005,Esther Akinyi,Programming,72.0
+STU005,Esther Akinyi,Database,70.0
+STU005,Esther Akinyi,Networking,65.0
+STU005,Esther Akinyi,Web Development,74.0
+STU006,Frank Kiprop,Mathematics,38.0
+STU006,Frank Kiprop,Programming,40.0
+STU006,Frank Kiprop,Database,35.0
+STU006,Frank Kiprop,Networking,42.0
+STU006,Frank Kiprop,Web Development,45.0
+STU007,Grace Muthoni,Mathematics,75.0
+STU007,Grace Muthoni,Programming,80.0
+STU007,Grace Muthoni,Database,77.0
+STU007,Grace Muthoni,Networking,73.0
+STU007,Grace Muthoni,Web Development,82.0
+STU008,Hassan Ali,Mathematics,60.0
+STU008,Hassan Ali,Programming,55.0
+STU008,Hassan Ali,Database,62.0
+STU008,Hassan Ali,Networking,58.0
+STU008,Hassan Ali,Web Development,64.0
